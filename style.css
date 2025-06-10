@@ -7,10 +7,10 @@
     box-sizing: border-box;
 }
 :root{
-    --color-pink: #feecea;
+    --color-blue: #feecea;
     --color-white: #fff;
     --color-black: #333;
-    --color-text-pink: #FF7882;
+    --color-text-black: #FF7882;
     --color-heart: #FF7882;
     --color-bg-letter: #fff8e4;
     --color-border: #DACCBF;
@@ -24,7 +24,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-image:linear-gradient(var(--color-pink), var(--color-pink));
+    background-image:linear-gradient(var(--color-blue), var(--color-black));
 }
 #wrapper{
     position: relative;
